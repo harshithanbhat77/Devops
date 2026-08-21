@@ -1,0 +1,9 @@
+Git Day 4 - Collaboration Workflow
+
+Topics:
+- Feature branches
+- Pull Requests
+- Code Review
+- PR Approval
+- Protected Branches
+- .gitignore
